@@ -1,0 +1,8 @@
+streamlit
+spacy
+scikit-learn
+pandas
+nltk
+joblib
+sklearn-crfsuite
+en-core-web-sm
